@@ -11,4 +11,4 @@ type: tool
 
 # Type to Points
 
-<img src="./assets/tool-capture.jpg" width="240"/>
+<img src="./assets/tool-capture.png" width="240"/>
